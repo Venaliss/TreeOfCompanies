@@ -63,39 +63,9 @@ namespace TreeOfCompanies_home_Work_02._03._2024__.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _62923spiralnotepad_109220 {
+        internal static System.Drawing.Bitmap _1678112137_papik_pro_p_dub_malen {
             get {
-                object obj = ResourceManager.GetObject("62923spiralnotepad_109220", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap vector_notebook_icon {
-            get {
-                object obj = ResourceManager.GetObject("vector-notebook-icon", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap xL3MOpbLZJU {
-            get {
-                object obj = ResourceManager.GetObject("xL3MOpbLZJU", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap Снимок_экрана__13_ {
-            get {
-                object obj = ResourceManager.GetObject("Снимок экрана (13)", resourceCulture);
+                object obj = ResourceManager.GetObject("1678112137_papik-pro-p-dub-malen", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

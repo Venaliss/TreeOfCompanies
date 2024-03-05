@@ -16,10 +16,5 @@ namespace TreeOfCompanies_home_Work_02._03._2024__
         {
             InitializeComponent();
         }
-
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
     }
 }
