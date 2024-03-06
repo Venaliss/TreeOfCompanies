@@ -37,7 +37,7 @@ namespace TreeOfCompanies_home_Work_02._03._2024__
                 string jsonText = File.ReadAllText(jsonFile);
                 JObject jsonObject = JObject.Parse(jsonText);
 
-                TreeNode jsonNode = new TreeNode("companies.json");
+                TreeNode jsonNode = new TreeNode("companies_json.json");
                 treeView.Nodes.Add(jsonNode);
 
                 AddJsonNode(jsonObject, jsonNode);

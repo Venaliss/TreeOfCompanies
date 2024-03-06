@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<companies>
+  <company>
+    <name>Apple Inc.</name>
+    <founded>April 1, 1976</founded>
+    <hq>
+      <location>Cupertino, California, United States</location>
+      <employees>147,000</employees>
+    </hq>
+    <products>
+      <product>iPhone</product>
+      <product>iPad</product>
+      <product>MacBook</product>
+    </products>
+    <revenue>Forbes Global 2000 ranking: 2021 - #3</revenue>
+  </company>
+
+  <company>
+    <name>Toyota Motor Corporation</name>
+    <founded>August 28, 1937</founded>
+    <hq>
+      <location>Toyota City, Japan</location>
+      <employees>366,283</employees>
+    </hq>
+    <products>
+      <product>Camry</product>
+      <product>Corolla</product>
+      <product>Rav4</product>
+    </products>
+    <revenue>Forbes Global 2000 ranking: 2021 - #19</revenue>
+  </company>
+
+  <company>
+    <name>Samsung Electronics Co., Ltd.</name>
+    <founded>January 13, 1969</founded>
+    <hq>
+      <location>Seoul, South Korea</location>
+      <employees>287,439</employees>
+    </hq>
+    <products>
+      <product>Galaxy smartphones</product>
+      <product>QLED TVs</product>
+      <product>MicroSD cards</product>
+    </products>
+    <revenue>Forbes Global 2000 ranking: 2020 - #15</revenue>
+  </company>
+</companies>
