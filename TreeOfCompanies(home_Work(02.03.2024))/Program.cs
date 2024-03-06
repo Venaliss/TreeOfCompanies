@@ -16,7 +16,7 @@ namespace TreeOfCompanies_home_Work_02._03._2024__
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new TreeOfCompanies());
         }
     }
 }
